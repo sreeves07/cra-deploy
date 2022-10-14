@@ -18,3 +18,7 @@ git checkout <branch name> without the b allows you to switch branches
 git pull orign main
 Do this after you merge on Github and before you add anything else 
 to your mian branch
+
+git branch -d <branch name>
+To locally delete branch 
+if you get a message that it wont delete use git branch -D <branch name>
