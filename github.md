@@ -12,3 +12,9 @@ hit Q when you are done viewing the branch
 
 To push to a branch 
 git push origin <branch name>
+
+git checkout <branch name> without the b allows you to switch branches
+
+git pull orign main
+Do this after you merge on Github and before you add anything else 
+to your mian branch
