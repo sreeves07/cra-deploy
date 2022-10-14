@@ -22,3 +22,5 @@ to your mian branch
 git branch -d <branch name>
 To locally delete branch 
 if you get a message that it wont delete use git branch -D <branch name>
+
+I am ccreating a Contact component. I want to push it Github without my Netlify
